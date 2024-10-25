@@ -1,5 +1,6 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent =" Cảm ơn em đã dành thời gian để nhìn những trò trẻ con của anhh và anh có những điều muốn gởi gắm đến tình iu của anhh❤️. Cảm ơn em đã đến bên anhh những lúc anh cô đơn buồn tủi nhất.Cuộc sống thực sự chẳng có ý nghĩa gì nếu không có em. Em làm cho anh luôn cảm thấy đặc biệt và hoàn hảo. Anh chẳng biết nói gì ngoài lời cảm ơn em, anh rất yêu em💕"
+var letterContent =" nay là ngày 26-10, là ngày mà một nàng thơ luôn hoạt bát và vui tươi được sinh ra, ngày nàng đến với thế giới cũng như một bông hoa xinh xắn nở, với lời nhắn này, cũng chúc nàng được tuổi mới thêm vui tươi và rạng rỡ, con đường phía trước còn dài và đẹp, mối quan hệ quanhn nàng mãi luôn là niềm vui, học tập cũng sẽ như ý nàng momg muốn, đến đây, tôi, bạn của nàng chúc nàng ngày sinh nhật tuyệt vời nhé <3
+"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
